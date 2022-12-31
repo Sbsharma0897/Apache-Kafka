@@ -2,7 +2,7 @@
 
 
 
-
+*
 server:
    port: 9000
    
@@ -37,3 +37,5 @@ spring:
         https://www.confluent.io/blog/apache-kafka-spring-boot-application/
         
         https://docs.spring.io/spring-kafka/reference/html/#quick-tour
+        
+        *
