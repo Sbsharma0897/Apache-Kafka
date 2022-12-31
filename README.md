@@ -19,8 +19,7 @@ spring:
            spring:
               json:
                  trusted:
-                    packages: semicolon * semicoln 
-         
+                    packages: "*"
       producer:
         bootstrap-servers: localhost:9092
         key-serializer: org.apache.kafka.common.serialization.StringSerializer
