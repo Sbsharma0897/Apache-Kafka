@@ -2,7 +2,7 @@
 
 
 
-*
+
 server:
    port: 9000
    
@@ -19,7 +19,7 @@ spring:
            spring:
               json:
                  trusted:
-                    packages: "*"  
+                    packages: semicolon * semicoln 
          
       producer:
         bootstrap-servers: localhost:9092
@@ -38,4 +38,4 @@ spring:
         
         https://docs.spring.io/spring-kafka/reference/html/#quick-tour
         
-        *
+        
